@@ -43,7 +43,7 @@ footer {
   grid-template-columns: 2fr 1fr 1fr;
 
   /* Apply a 10px gutter between rows and columns */
-  grid-gap: 10px;
+  grid-gap: 20px;
 
   /*
     Place items on the grid using their grid area names
